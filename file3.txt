@@ -1,3 +1,0 @@
-File3 added in GIT web
-File3 added in local repo
-File3 added after reset
